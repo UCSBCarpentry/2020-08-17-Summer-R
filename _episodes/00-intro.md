@@ -19,11 +19,11 @@ keypoints:
 source: md
 ---
 
-<%-- ```{r, include=FALSE}
+<!--- ```{r, include=FALSE}
 source("../bin/chunk-options.R")
 knitr_fig_path("00-")
 source("../bin/download_data.R")
-``` --%>
+``` ---!>
 
 
 ## What is R? What is RStudio?
