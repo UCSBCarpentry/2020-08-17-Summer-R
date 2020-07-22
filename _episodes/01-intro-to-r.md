@@ -32,8 +32,8 @@ keypoints:
 source("../bin/chunk-options.R")
 knitr_fig_path("01-")
 source("../bin/download_data.R")
----!>```
-
+```  
+---!> 
 
 ## Creating objects in R
 
