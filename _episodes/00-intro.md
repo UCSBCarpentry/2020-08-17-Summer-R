@@ -16,14 +16,8 @@ objectives:
 keypoints:
 - "Use RStudio to write and run R programs."
 - "Use `install.packages()` to install packages (libraries)."
-source: md
 ---
 
-<!--- ```{r, include=FALSE}
-source("../bin/chunk-options.R")
-knitr_fig_path("00-")
-source("../bin/download_data.R")
-``` ---!>
 
 
 ## What is R? What is RStudio?
