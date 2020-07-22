@@ -116,15 +116,10 @@ freely available to extend R's native capabilities.
 
 
 
-
-<figure>
-
-![RStudio_analogy]("../fig/r+rstudio-analogy.jpg")
-<figcaption>
+![RStudio_analogy](../fig/r+rstudio-analogy.jpg)
 RStudio extends what R can do, and makes it easier to write R code and interact
 with R. <a href="https://commons.wikimedia.org/w/index.php?curid=2447462">Left photo credit</a>; <a href="https://commons.wikimedia.org/w/index.php?curid=44599363">right photo credit</a>. 
-</figcaption>
-</figure>
+
 
 ## A tour of RStudio
 
