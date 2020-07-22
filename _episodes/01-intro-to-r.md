@@ -24,7 +24,6 @@ keypoints:
 - "Access individual values by location using `[]`."
 - "Access arbitrary sets of data using `[c(...)]`."
 - "Use logical operations and logical vectors to access subsets of data."
-source: Rmd
 ---
 
 ```{r, include=FALSE}
