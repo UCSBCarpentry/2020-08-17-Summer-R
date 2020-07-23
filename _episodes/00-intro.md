@@ -16,14 +16,8 @@ objectives:
 keypoints:
 - "Use RStudio to write and run R programs."
 - "Use `install.packages()` to install packages (libraries)."
-output: md_document
 ---
 
-```{r, include=FALSE}
-source("../bin/chunk-options.R")
-knitr_fig_path("00-")
-source("../bin/download_data.R")
-```
 
 
 ## What is R? What is RStudio?
@@ -122,16 +116,10 @@ freely available to extend R's native capabilities.
 
 
 
-
-<figure>
-```{r rstudio-analogy, echo=FALSE, fig.cap="RStudio extends what R can do, and makes it easier to write R code and interact with R."}	
-knitr::include_graphics("../fig/r+rstudio-analogy.jpg")
-```
-<figcaption>
+![RStudio_analogy](../fig/r+rstudio-analogy.jpg)
 RStudio extends what R can do, and makes it easier to write R code and interact
 with R. <a href="https://commons.wikimedia.org/w/index.php?curid=2447462">Left photo credit</a>; <a href="https://commons.wikimedia.org/w/index.php?curid=44599363">right photo credit</a>. 
-</figcaption>
-</figure>
+
 
 ## A tour of RStudio
 

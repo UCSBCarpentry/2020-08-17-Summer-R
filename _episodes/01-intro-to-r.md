@@ -24,15 +24,16 @@ keypoints:
 - "Access individual values by location using `[]`."
 - "Access arbitrary sets of data using `[c(...)]`."
 - "Use logical operations and logical vectors to access subsets of data."
-output: md_document
 ---
+
+<!---
 
 ```{r, include=FALSE}
 source("../bin/chunk-options.R")
 knitr_fig_path("01-")
 source("../bin/download_data.R")
-```
-
+```  
+---!> 
 
 ## Creating objects in R
 

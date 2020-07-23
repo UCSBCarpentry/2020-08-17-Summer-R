@@ -19,7 +19,6 @@ keypoints:
 - "JSON is a popular data format for transferring data used by a great many Web based APIs"
 - "The complex structure of a JSON document means that it cannot easily be 'flattened' into tabular data"
 - "We can use R code to extract values of interest and place them in a csv file"
-output: md_document	
 ---
 
 ```{r, include=FALSE}
