@@ -22,6 +22,7 @@ objectives:
 keypoints:
 - "Use read.csv to read tabular data in R."
 - "Use factors to represent categorical data in R."
+output: md_document
 ---
 
 
