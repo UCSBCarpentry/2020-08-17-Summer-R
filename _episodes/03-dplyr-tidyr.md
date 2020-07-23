@@ -34,6 +34,9 @@ questions:
 - How can I reformat a dataframe to meet my needs?
 teaching: 50
 exercises: 30
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 
