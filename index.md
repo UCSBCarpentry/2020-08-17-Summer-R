@@ -364,6 +364,11 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
+{% include dc/r_setup.md  %}
+
+
+{% comment %}
+Commenting out in favor of r_setup.md
 {% if site.carpentry == "swc" %}
 {% include swc/setup.html %}
 {% elsif site.carpentry == "dc" %}
@@ -371,3 +376,4 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+{% endcomment %}
