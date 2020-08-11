@@ -70,7 +70,8 @@ your operating system, and then follow the instructions to install
 
 #### Linux
 
-> ## * Follow the instructions for your distribution
+> ## Follow the instructions for your distribution
+>
 > from [CRAN](https://cloud.r-project.org/bin/linux), they provide information
 > to get the most recent version of R for common distributions. For most
 > distributions, you could use your package manager (e.g., for Debian/Ubuntu run
