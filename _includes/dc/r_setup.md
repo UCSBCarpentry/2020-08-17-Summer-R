@@ -7,7 +7,9 @@ using R much easier and more interactive. You need to install R before you
 install RStudio. After installing both programs, you will need to install
 some specific R packages within RStudio. Follow the instructions below for
 your operating system, and then follow the instructions to install
-**`tidyverse`** and **`RSQLite`**.
+**`tidyverse`**.
+
+For this version we recommend at least R version 4.0 or later and RStudio 1.2
 
 #### Windows
 
@@ -49,7 +51,7 @@ your operating system, and then follow the instructions to install
 >	also display which version of R you are running. Go on
 >	  the [CRAN website](https://cran.r-project.org/bin/macosx/) and check
 >	  whether a more recent version is available. If so, please download and install
->	  it. In any case, make sure you have at least R 3.2.
+>	  it. In any case, make sure you have at least R 4.0.
 {: .solution}
 
 > ## If you don't have R and RStudio installed
@@ -93,3 +95,8 @@ Start RStudio by double-clicking the icon and then type:
   typing the names of the package you want to install. You will see that the name auto-completes. Make sure the 'inclde dependencies' box is checked.
 
 ![RStudio 'install packages' screen.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/install_packages.png)
+
+### 3: Test your installation
+* download data
+* run this script...(in this window)
+** look for ...
