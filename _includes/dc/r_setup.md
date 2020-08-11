@@ -84,6 +84,7 @@ your operating system, and then follow the instructions to install
 >   rstudio-x.yy.zzz-amd64.deb` at the terminal).
 > * Once it's installed, open RStudio to make sure it works and you don't get any
 >   error messages.
+{: .solution}
 
 ### 2: Install Packages
 * After installing R and RStudio, you need to install the `tidyverse` and
