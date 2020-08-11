@@ -86,8 +86,8 @@ your operating system, and then follow the instructions to install
 >   error messages.
 {: .solution}
 
-### 2: Install Packages
-* After installing R and RStudio, you need to install the `tidyverse` and
-`RSQLite` packages. Start RStudio by double-clicking the icon and then type:
-  `install.packages(c("tidyverse", "RSQLite"))`. You can also do this by going to Tools -> Install Packages and
-  typing the names of the packages you want to install, separated by a comma.
+### 2: Install the Tidyverse
+* After installing R and RStudio, you need to install the `tidyverse` packages. 
+Start RStudio by double-clicking the icon and then type:
+ `install.packages("tidyverse")`. You can also do this by going to Tools -> Install Packages and
+  typing the names of the packages you want to install, separated by a comma. Or select them from the very long list.
