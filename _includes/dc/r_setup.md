@@ -90,4 +90,13 @@ your operating system, and then follow the instructions to install
 * After installing R and RStudio, you need to install the `tidyverse` packages. 
 Start RStudio by double-clicking the icon and then type:
  `install.packages("tidyverse")`. You can also do this by going to Tools -> Install Packages and
-  typing the names of the packages you want to install, separated by a comma. Or select them from the very long list.
+  typing the names of the package you want to install. You will see that the name auto-completes. Make sure the 'inclde dependencies' box is checked.
+
+<figure>
+```{r rstudio-analogy, echo=FALSE, fig.cap="RStudio 'install packages' screen."}	
+knitr::include_graphics("../fig/install_packages.png")
+```
+<figcaption>
+RStudio 'install packages' screen. 
+</figcaption>
+</figure>
