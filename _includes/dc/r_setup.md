@@ -92,6 +92,8 @@ Start RStudio by double-clicking the icon and then type:
  `install.packages("tidyverse")`. You can also do this by going to Tools -> Install Packages and
   typing the names of the package you want to install. You will see that the name auto-completes. Make sure the 'inclde dependencies' box is checked.
 
+![RStudio 'install packages' screen.](../fig/install_packages.png)
+
 <figure>
 ```{r rstudio-analogy, echo=FALSE, fig.cap="RStudio 'install packages' screen."}	
 knitr::include_graphics("../fig/install_packages.png")
