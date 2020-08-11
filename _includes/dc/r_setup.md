@@ -1,4 +1,4 @@
-### R and RStudio
+### 1: R and RStudio
 
 * R and RStudio are separate downloads and installations. R is the
 underlying statistical computing environment, but using R alone is no
@@ -70,21 +70,21 @@ your operating system, and then follow the instructions to install
 
 #### Linux
 
-* Follow the instructions for your distribution
- from [CRAN](https://cloud.r-project.org/bin/linux), they provide information
- to get the most recent version of R for common distributions. For most
- distributions, you could use your package manager (e.g., for Debian/Ubuntu run
- `sudo apt-get install r-base`, and for Fedora `sudo yum install R`), but we
- don't recommend this approach as the versions provided by this are
- usually out of date. In any case, make sure you have at least R 3.2.
-* Go to the [RStudio download
-  page](https://www.rstudio.com/products/rstudio/download/#download)
-* Under *Installers* select the version that matches your distribution, and
-   install it with your preferred method (e.g., with Debian/Ubuntu `sudo dpkg -i
-   rstudio-x.yy.zzz-amd64.deb` at the terminal).
-* Once it's installed, open RStudio to make sure it works and you don't get any
-   error messages.
+> ## * Follow the instructions for your distribution
+> from [CRAN](https://cloud.r-project.org/bin/linux), they provide information
+> to get the most recent version of R for common distributions. For most
+> distributions, you could use your package manager (e.g., for Debian/Ubuntu run
+> `sudo apt-get install r-base`, and for Fedora `sudo yum install R`), but we
+> don't recommend this approach as the versions provided by this are
+> usually out of date. In any case, make sure you have at least R 3.2.
+> * Go to the [RStudio download page](https://www.rstudio.com/products/rstudio/download/#download)
+> * Under *Installers* select the version that matches your distribution, and
+>   install it with your preferred method (e.g., with Debian/Ubuntu `sudo dpkg -i
+>   rstudio-x.yy.zzz-amd64.deb` at the terminal).
+> * Once it's installed, open RStudio to make sure it works and you don't get any
+>   error messages.
 
+### 2: Install Packages
 * After installing R and RStudio, you need to install the `tidyverse` and
 `RSQLite` packages. Start RStudio by double-clicking the icon and then type:
   `install.packages(c("tidyverse", "RSQLite"))`. You can also do this by going to Tools -> Install Packages and
