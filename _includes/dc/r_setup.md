@@ -97,6 +97,10 @@ Start RStudio by double-clicking the icon and then type:
 ![RStudio 'install packages' screen.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/install_packages.png)
 
 ### 3: Test your installation
-* download data
-* run this script...(in this window)
-** look for ...
+* Download this [test R script](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/data/test.r)
+* Open R Studio and use the File menu to open the script.
+* By default, the script pane will open on the upper left. Select all 9 lines of the script.
+* Click 'Run the current line or selection.' (This script loads the Tidyverse and a package of data that is build in to base R.)
+* You should see a graph that looks like the illustration
+
+![RStudio screen after running test script.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/install_packages.png)
