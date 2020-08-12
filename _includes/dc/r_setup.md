@@ -103,4 +103,4 @@ Start RStudio by double-clicking the icon and then type:
 * Click 'Run the current line or selection.' (This script loads the Tidyverse and a package of data that is build in to base R.)
 * You should see a graph that looks like the illustration in the lower right pane
 
-![RStudio screen after running test script.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/diamonds.png | width=450)
+![RStudio screen after running test script.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/diamonds.png | width=40)
