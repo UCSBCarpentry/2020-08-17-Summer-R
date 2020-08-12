@@ -101,6 +101,6 @@ Start RStudio by double-clicking the icon and then type:
 * Open R Studio and use the File menu to open the script.
 * By default, the script pane will open on the upper left. Select all 9 lines of the script.
 * Click 'Run the current line or selection.' (This script loads the Tidyverse and a package of data that is build in to base R.)
-* You should see a graph that looks like the illustration
+* You should see a graph that looks like the illustration in the lower right pane
 
-![RStudio screen after running test script.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/install_packages.png)
+![RStudio screen after running test script.](https://ucsbcarpentry.github.io/2020-08-17-Summer-R/fig/diamonds.png)
