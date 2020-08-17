@@ -291,7 +291,8 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 2' to be actual dates or days of the week.
 {% endcomment %}
 <h2 id="schedule">Schedule</h2>
-
+<p> Please excuse any broken links below, 
+  <a href="https://datacarpentry.org/r-socialsci/">here is the link to the entire "R for Social Scientists" schedule</a>. From there you can navigate to individual lessons.</p> 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
 {% elsif site.carpentry == "dc" %}
